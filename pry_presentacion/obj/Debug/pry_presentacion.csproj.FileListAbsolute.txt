@@ -1,0 +1,175 @@
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe.config
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_listar_pais.resources
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.Properties.Resources.resources
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CopyComplete
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.exe
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_pais.resources
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe.config
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.AssemblyReference.cache
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_pais.resources
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_listar_pais.resources
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.Properties.Resources.resources
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.GenerateResource.cache
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CoreCompileInputs.cache
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CopyComplete
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.exe
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_Autor.resources
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe.config
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_Autor.resources
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_pais.resources
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_listar_pais.resources
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.Properties.Resources.resources
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CopyComplete
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.exe
+C:\Users\Admin\Downloads\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.pdb
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe.config
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.pdb
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.pdb
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.pdb
+D:\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.pdb
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.AssemblyReference.cache
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.SuggestedBindingRedirects.cache
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_Autor.resources
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_pais.resources
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_listar_pais.resources
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.Properties.Resources.resources
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.GenerateResource.cache
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CoreCompileInputs.cache
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CopyComplete
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.exe
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.pdb
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\sln_biblioteca\pry_presentacion\bin\Debug\stdole.dll
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_reporte_autor1.resources
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_reporte_autor2.resources
+D:\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_principal.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe.config
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\stdole.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_Autor.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_pais.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_listar_pais.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_principal.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_reporte_autor1.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_reporte_autor2.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.Properties.Resources.resources
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.GenerateResource.cache
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CopyComplete
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.exe
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe.config
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.exe
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_presentacion.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\stdole.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_negocio.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\bin\Debug\pry_datos.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_Autor.resources
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_crud_pais.resources
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_listar_pais.resources
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_principal.resources
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.frm_reporte_autor.resources
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.Properties.Resources.resources
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.GenerateResource.cache
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.csproj.CopyComplete
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.exe
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_presentacion\obj\Debug\pry_presentacion.pdb

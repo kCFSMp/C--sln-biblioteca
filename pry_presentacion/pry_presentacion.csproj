@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5CD903A9-A5F7-41A6-821F-6732E7AECCEA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pry_presentacion</RootNamespace>
+    <AssemblyName>pry_presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cr_autor.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_autor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ds_autor.cs">
+      <DependentUpon>ds_autor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ds_autor.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ds_autor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_crud_Autor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_crud_Autor.Designer.cs">
+      <DependentUpon>frm_crud_Autor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_crud_pais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_crud_pais.Designer.cs">
+      <DependentUpon>frm_crud_pais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_listar_autor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_listar_autor.Designer.cs">
+      <DependentUpon>frm_listar_autor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_listar_pais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_listar_pais.Designer.cs">
+      <DependentUpon>frm_listar_pais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_principal.Designer.cs">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_reporte_autor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_reporte_autor.Designer.cs">
+      <DependentUpon>frm_reporte_autor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="cr_autor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_autor.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_crud_Autor.resx">
+      <DependentUpon>frm_crud_Autor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_crud_pais.resx">
+      <DependentUpon>frm_crud_pais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_listar_pais.resx">
+      <DependentUpon>frm_listar_pais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_principal.resx">
+      <DependentUpon>frm_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_reporte_autor.resx">
+      <DependentUpon>frm_reporte_autor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ds_autor.xsc">
+      <DependentUpon>ds_autor.xsd</DependentUpon>
+    </None>
+    <None Include="ds_autor.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ds_autor.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ds_autor.xss">
+      <DependentUpon>ds_autor.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\pry_entidad\pry_entidad.csproj">
+      <Project>{a13f799a-e135-476f-9dbf-f9f6597d00d7}</Project>
+      <Name>pry_entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\pry_negocio\pry_negocio.csproj">
+      <Project>{e09226f9-8998-4b92-ab4c-2e49b32fd1ff}</Project>
+      <Name>pry_negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\senati_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\environment_120736.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\autor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\autorPais_G.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

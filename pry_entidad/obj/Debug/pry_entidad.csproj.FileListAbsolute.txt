@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.AssemblyReference.cache
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.CoreCompileInputs.cache
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_entidad\bin\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_entidad\obj\Debug\pry_entidad.pdb

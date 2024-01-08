@@ -1,0 +1,66 @@
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.pdb
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CopyComplete
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.dll
+C:\Users\Admin\Desktop\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.pdb
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.AssemblyReference.cache
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CoreCompileInputs.cache
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CopyComplete
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.dll
+D:\Semestre 4\Seminario Práctico\S9\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.pdb
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CopyComplete
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.dll
+C:\Users\Admin\Downloads\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.pdb
+D:\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.dll
+D:\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.pdb
+D:\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.dll
+D:\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.dll
+D:\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.pdb
+D:\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.pdb
+D:\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.AssemblyReference.cache
+D:\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CoreCompileInputs.cache
+D:\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CopyComplete
+D:\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.dll
+D:\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CopyComplete
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.dll
+C:\Users\User\Documents\CESAR\Home\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\bin\Debug\pry_negocio.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\bin\Debug\pry_datos.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\bin\Debug\pry_entidad.pdb
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.csproj.CopyComplete
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.dll
+C:\Users\User\Documents\CESAR\C#-LENGUAJE DE PROGRAMACIÓN I\Seminario\sln_biblioteca_final\sln_biblioteca\pry_negocio\obj\Debug\pry_negocio.pdb
